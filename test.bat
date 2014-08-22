@@ -1,0 +1,1 @@
+IF exist tt.txt echo del tt.txt
